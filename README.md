@@ -24,7 +24,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/electricity-connection-management.git](https://github.com/priyanshi47/Electricity-Board)
+   git clone https://github.com/priyanshi47/Electricity-Board
    ```
 2. Navigate to the project directory:
    ```bash
@@ -72,9 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Notes
-1. **Customization**: Make sure to replace placeholders like `yourusername`, `your.email@example.com`, and project-specific details.
-2. **Additional Sections**: You can add more sections based on your project's complexity, like API documentation or deployment instructions.
-3. **Screenshots**: If applicable, you can add screenshots of your application for better visualization. This can be done using markdown syntax for images: `![alt text](url-to-image)`.
-
-Feel free to modify any sections or add more details as necessary! Let me know if you need further assistance!
