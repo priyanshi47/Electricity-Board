@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "applicantId": "AP1001",
+    "name": "John Doe",
+    "loadApplied": 150,
+    "status": "Pending",
+    "dateOfApplication": "2024-01-15",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "1234-5678-9123"
+  },
+  {
+    "id": 2,
+    "applicantId": "AP1002",
+    "name": "Jane Smith",
+    "loadApplied": 180,
+    "status": "Approved",
+    "dateOfApplication": "2024-01-20",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "9876-5432-1098"
+  },
+  {
+    "id": 3,
+    "applicantId": "AP1003",
+    "name": "Sam Wilson",
+    "loadApplied": 220,
+    "status": "Rejected",
+    "dateOfApplication": "2024-01-25",
+    "govtIdType": "Passport",
+    "govtIdNumber": "AB1234567"
+  },
+  {
+    "id": 4,
+    "applicantId": "AP1004",
+    "name": "Alice Johnson",
+    "loadApplied": 170,
+    "status": "Approved",
+    "dateOfApplication": "2024-02-10",
+    "govtIdType": "Voter ID",
+    "govtIdNumber": "VOTER123456"
+  },
+  {
+    "id": 5,
+    "applicantId": "AP1005",
+    "name": "Bob Brown",
+    "loadApplied": 200,
+    "status": "Pending",
+    "dateOfApplication": "2024-02-15",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "5566-7788-9900"
+  },
+  {
+    "id": 6,
+    "applicantId": "AP1006",
+    "name": "Cathy Green",
+    "loadApplied": 300,
+    "status": "Approved",
+    "dateOfApplication": "2024-03-05",
+    "govtIdType": "Driving License",
+    "govtIdNumber": "DL1234567890"
+  },
+  {
+    "id": 7,
+    "applicantId": "AP1007",
+    "name": "David White",
+    "loadApplied": 180,
+    "status": "Rejected",
+    "dateOfApplication": "2024-03-12",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR987654"
+  },
+  {
+    "id": 8,
+    "applicantId": "AP1008",
+    "name": "Eva Blue",
+    "loadApplied": 160,
+    "status": "Approved",
+    "dateOfApplication": "2024-04-01",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR111223"
+  },
+  {
+    "id": 9,
+    "applicantId": "AP1009",
+    "name": "Frank Black",
+    "loadApplied": 190,
+    "status": "Pending",
+    "dateOfApplication": "2024-04-20",
+    "govtIdType": "Passport",
+    "govtIdNumber": "AB9876543"
+  },
+  {
+    "id": 10,
+    "applicantId": "AP1010",
+    "name": "Grace Yellow",
+    "loadApplied": 250,
+    "status": "Approved",
+    "dateOfApplication": "2024-05-15",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR555666"
+  },
+  {
+    "id": 11,
+    "applicantId": "AP1011",
+    "name": "Hannah Pink",
+    "loadApplied": 150,
+    "status": "Pending",
+    "dateOfApplication": "2024-05-20",
+    "govtIdType": "Voter ID",
+    "govtIdNumber": "VOTER111223"
+  },
+  {
+    "id": 12,
+    "applicantId": "AP1012",
+    "name": "Ian Grey",
+    "loadApplied": 280,
+    "status": "Approved",
+    "dateOfApplication": "2024-06-30",
+    "govtIdType": "Driving License",
+    "govtIdNumber": "DL9876543210"
+  },
+  {
+    "id": 13,
+    "applicantId": "AP1013",
+    "name": "Jack Red",
+    "loadApplied": 100,
+    "status": "Rejected",
+    "dateOfApplication": "2024-06-15",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR333444"
+  },
+  {
+    "id": 14,
+    "applicantId": "AP1014",
+    "name": "Laura Orange",
+    "loadApplied": 130,
+    "status": "Pending",
+    "dateOfApplication": "2024-07-01",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR222333"
+  },
+  {
+    "id": 15,
+    "applicantId": "AP1015",
+    "name": "Mike Violet",
+    "loadApplied": 240,
+    "status": "Approved",
+    "dateOfApplication": "2024-07-15",
+    "govtIdType": "Passport",
+    "govtIdNumber": "AB6543210"
+  },
+  {
+    "id": 16,
+    "applicantId": "AP1016",
+    "name": "Nina Indigo",
+    "loadApplied": 90,
+    "status": "Rejected",
+    "dateOfApplication": "2024-08-02",
+    "govtIdType": "Driving License",
+    "govtIdNumber": "DL2223334445"
+  },
+  {
+    "id": 17,
+    "applicantId": "AP1017",
+    "name": "Owen Teal",
+    "loadApplied": 200,
+    "status": "Pending",
+    "dateOfApplication": "2024-08-10",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR555666"
+  },
+  {
+    "id": 18,
+    "applicantId": "AP1018",
+    "name": "Paul Aqua",
+    "loadApplied": 210,
+    "status": "Approved",
+    "dateOfApplication": "2024-08-12",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR777888"
+  },
+  {
+    "id": 19,
+    "applicantId": "AP1019",
+    "name": "Quinn Coral",
+    "loadApplied": 220,
+    "status": "Rejected",
+    "dateOfApplication": "2024-09-05",
+    "govtIdType": "Passport",
+    "govtIdNumber": "AB4567890"
+  },
+  {
+    "id": 20,
+    "applicantId": "AP1020",
+    "name": "Rose Mint",
+    "loadApplied": 160,
+    "status": "Approved",
+    "dateOfApplication": "2024-09-10",
+    "govtIdType": "Aadhar",
+    "govtIdNumber": "AADHAR999000"
+  }
+]

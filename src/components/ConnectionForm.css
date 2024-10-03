@@ -1,0 +1,60 @@
+.connection-form {
+      margin: auto; /* Center the form */
+    padding: 15px; /* Add padding inside the form */
+    background-color: #fdfdfd; /* Light background color */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    font-family: Arial, sans-serif; /* Use a clean font */
+  }
+  
+  h2 {
+    font-size: 20px; /* Font size for the heading */
+    text-align: center; /* Center the heading */
+    margin-bottom: 15px; /* Space below the heading */
+  }
+  
+  .form-row {
+    display: flex; /* Use flexbox for layout */
+    flex-wrap: nowrap; /* Prevent wrapping to a new line */
+    gap: 10px; /* Space between inputs */
+    overflow-x: auto; /* Allow horizontal scrolling if needed */
+  }
+  
+  .form-group {
+    flex: 1; /* Allow groups to flex */
+    min-width: 120px; /* Minimum width for input groups */
+  }
+  
+  input {
+    width: 100%; /* Full width for inputs */
+    padding: 8px; /* Padding inside inputs */
+    border: 1px solid #ccc; /* Light border for inputs */
+    border-radius: 4px; /* Rounded corners for inputs */
+    font-size: 14px; /* Font size for inputs */
+    box-sizing: border-box; /* Include padding and border in width */
+  }
+  
+  input:disabled {
+    background-color: #f0f0f0; /* Light gray background for disabled input */
+  }
+  
+  .status-input {
+    background-color: #f0f0f0; /* Light gray background for read-only input */
+  }
+  
+  .submit-button {
+    margin-top: 15px; /* Space above the button */
+    padding: 10px; /* Padding for the button */
+    background-color: #007bff; /* Blue background color */
+    color: white; /* White text color */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners for button */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size for button */
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
