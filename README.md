@@ -24,11 +24,11 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/electricity-connection-management.git
+   git clone [https://github.com/yourusername/electricity-connection-management.git](https://github.com/priyanshi47/Electricity-Board)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd electricity-connection-management
+   cd Electricity-Board
    ```
 3. Install the dependencies:
    ```bash
@@ -67,24 +67,9 @@ The application uses a JSON structure similar to the following for connection re
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any changes.
 
-### Steps to Contribute
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any inquiries, please reach out to:
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
----
-
-Thank you for checking out the Electricity Connection Management System! Feel free to explore, use, and contribute to the project.
 ```
 
 ### Notes
